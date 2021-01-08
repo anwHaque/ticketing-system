@@ -1,7 +1,7 @@
 {
-  "name": "token-system",
+  "name": "ticketing-system",
   "version": "1.0.0",
-  "description": "token-system",
+  "description": "ticketing-system",
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js"
